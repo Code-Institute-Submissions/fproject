@@ -1,0 +1,270 @@
+#navbarOne{
+	font-family: 'Rock Salt', cursive;
+	font-size:25px;
+	color:#ffffcc;
+}
+#navbarOne:hover{
+	
+	
+	color: #f3d748;
+}
+.jumBo{
+	color: #ffffff;
+}
+.jumboOne{
+	color: #ffffcc;
+	
+}
+.jumboOne:hover{
+	color:#f3d748;
+	
+}
+
+.jumboTwo{
+	background:url("/assets/main backgrounds/1.jpg")no-repeat center center fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+.jumbotron{
+	
+   margin-top:30px;	
+   margin-bottom:5px;
+   text-align:center;
+   background-color:rgba(0, 10 , 6 , 0.5);
+}
+
+
+.buTTon{
+	margin:10px;
+	width:150px;
+	background-color:red;
+	color: #ffffcc;
+}
+.btn-lg:hover{
+	background-color:#ff6600;
+	color:yellow;
+}
+.navbar-inverse{
+	margin-bottom:0;
+}
+.blocKdivider{
+	margin:30px;
+	height:4px;
+	background-color:#fff;
+}
+
+
+
+
+
+.alphaAlpha{
+	background:url("/assets/main backgrounds/guitar.jpg")no-repeat center center fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	text-align:center;
+}
+.alphaTwo{
+	height:100px;
+	background-color:rgba(0, 4 , 12 , 0.8);
+	text-align:center;
+}
+.alphaTwo:hover{
+	background-color:rgba(0, 10 , 6 , 0.4);
+}
+#alphaOne{
+	text-align:center;
+    margin-top:30px;
+	
+	
+}
+.alphaThree{
+	
+     color: #ffffcc;
+	
+}
+.alphaThree:hover{
+       color:yellow;
+	   text-decoration:none;
+}
+
+.alphaFour{
+	text-align:center;
+}
+.socialLinksOne{
+	background:linear-gradient(#1a0d00, grey);
+	color:#ffffe6;
+}
+
+.soCial {
+	margin:10px;
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+	color:white;
+	background-color:#2f2a2a;
+	
+}
+.soCial:hover{
+	color:#ff3300;
+}
+
+
+.footerOne{
+	background:linear-gradient(#808080, #000);
+}
+
+#footerTwo{
+	
+}
+.footerFour{
+	font-size:25px;
+	text-decoration:none;
+	color:#b77733;
+	
+}
+.footerFour:hover{
+	text-decoration:none;
+	color:#f3d748;
+}
+h2{
+	margin:0;
+	padding:0;
+}
+@media only screen and (min-width:700px){
+	#footerTwo{
+		height:300px;
+		
+	}
+	
+}
+/* who we are*/
+
+
+.jumboThree{
+	background:url("/assets/main backgrounds/3.jpg")no-repeat center center fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	text-align:center;
+}
+.bandIconsOne{
+	list-style-type:none;
+	color:white;
+	margin-left:0;
+}
+.photoOne{
+	margin-top:30px;
+}
+.aLign{
+	text-align:left;
+}
+.hidenListOne{
+	color:#fff;
+	margin:0;
+	padding:0;
+}
+
+
+/* our songs*/
+
+.jumboFive{
+	background:url("/assets/main backgrounds/6.jpg")no-repeat center center fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	text-align:center;
+	
+}
+.videoOne{
+	margin-top:60px;
+	font-size:20px;
+}
+.audioOne{
+	font-size:20px;
+	margin:20px;
+}
+
+
+/* our concerts*/
+
+
+/* timeline*/
+.timeline-item{
+	padding:4em 2em 0em 2em;
+	position:relative;
+	color:#fafafa;
+	border-left:1px solid;
+}
+.timeline-item p{
+      padding:0;
+      margin:0;	
+}
+.timeline-item:before{
+    content:attr(dates);
+    position:absolute;
+    left:2.5em;
+    top:3em;
+    display:block;
+    padding:0;
+    margin:0;
+}
+.timeline-item:after{
+	width:12px;
+	height:12px;
+	display:block;
+	top:3.2em;
+	position:absolute;
+	left:-6px;
+	border-radius:12px;
+	content:'';
+	background:#fafafa;
+	
+}
+.jumboSix {
+	text-align:left;
+	
+}
+#conCerts{
+	margin-top:10px;
+}
+
+
+.uSer{
+	margin:10px;
+    padding: 10px;
+    font-size: 40px;
+    width: 60px;
+	height:60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+	color:white;
+	background-color:#8c8c8c;
+	
+}
+.centralThree{
+	color:#fff;
+}
+
+
+/* end timeline*/
+
+.jumboSeven{
+	background:url("/assets/main backgrounds/5.jpg")no-repeat center center fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+.liSt{
+	list-style:none;
+	margin:20px;
+	font-size:25px;
+}
