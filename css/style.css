@@ -60,7 +60,7 @@
 
 
 .alphaAlpha{
-	background:url("https://github.com/flo0909/fproject/tree/master/assets/main%20backgrounds/guitar.jpg")no-repeat center center fixed;
+	background:url("https://github.com/flo0909/fproject/tree/master/assets/main/guitar.jpg")no-repeat center center fixed;
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -147,7 +147,7 @@ h2{
 
 
 .jumboThree{
-	background:url("https://github.com/flo0909/fproject/tree/master/assets/main%20backgrounds/3.jpg")no-repeat center center fixed;
+	background:url("https://github.com/flo0909/fproject/tree/master/assets/main/3.jpg")no-repeat center center fixed;
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -174,7 +174,7 @@ h2{
 /* our songs*/
 
 .jumboFive{
-	background:url("https://github.com/flo0909/fproject/tree/master/assets/main%20backgrounds/6.jpg")no-repeat center center fixed;
+	background:url("assets/main/6.jpg")no-repeat center center fixed;
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
