@@ -99,19 +99,21 @@
 }
 
 .soCial {
-	margin:10px;
-    padding: 10px;
-    font-size: 20px;
-    width: 40px;
+	margin:22px;
+    padding: 16px;
+    font-size: 28px;
+    width: 60px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
 	color:white;
 	background-color:#2f2a2a;
+	box-shadow: 2px 2px 5px #fff;
 	
 }
 .soCial:hover{
-	color:#ff3300;
+	color:#ffc125;
+	box-shadow: 5px 5px 5px #ffc125;
 }
 
 
