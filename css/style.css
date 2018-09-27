@@ -21,7 +21,7 @@
 }
 
 .jumboTwo{
-	background:url("../assets/main/1.jpg ")no-repeat center center fixed;
+	background:url("../assets/main/1.jpg")no-repeat center center fixed;
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +32,7 @@
    margin-top:30px;	
    margin-bottom:5px;
    text-align:center;
-   background-color:rgba(0, 10 , 6 , 0.5);
+   background-color:rgba(0, 10 , 6 , 0.8);
 }
 
 
@@ -94,8 +94,13 @@
 	text-align:center;
 }
 .socialLinksOne{
-	background:linear-gradient(#1a0d00, grey);
+	background:linear-gradient(#1a0d00, #333333);
 	color:#ffffe6;
+	text-align:center;
+	
+}
+.general-sub{
+	margin-top:60px;
 }
 
 .soCial {
@@ -109,7 +114,6 @@
 	color:white;
 	background-color:#2f2a2a;
 	box-shadow: 2px 2px 5px #fff;
-	
 }
 .soCial:hover{
 	color:#ffc125;
@@ -118,12 +122,9 @@
 
 
 .footerOne{
-	background:linear-gradient(#808080, #000);
+	background:linear-gradient(#333333, #000);
 }
 
-#footerTwo{
-	
-}
 .footerFour{
 	font-size:25px;
 	text-decoration:none;
@@ -270,3 +271,4 @@ h2{
 	margin:20px;
 	font-size:25px;
 }
+
