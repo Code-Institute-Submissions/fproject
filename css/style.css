@@ -1,274 +1,310 @@
-#navbarOne{
+#navbarOne {
 	font-family: 'Rock Salt', cursive;
-	font-size:25px;
-	color:#ffffcc;
+	font-size: 25px;
+	color: #ffffcc;
 }
-#navbarOne:hover{
-	
-	
+
+#navbarOne:hover {
+
+
 	color: #f3d748;
 }
-.jumBo{
+
+.jumBo {
 	color: #ffffff;
 }
-.jumboOne{
+
+.jumboOne {
 	color: #ffffcc;
-	
-}
-.jumboOne:hover{
-	color:#f3d748;
-	
+
 }
 
-.jumboTwo{
-	background:url("../assets/main/1.jpg")no-repeat center center fixed;
+.jumboOne:hover {
+	color: #f3d748;
+
+}
+
+.jumboTwo {
+	background: url("../assets/main/1.jpg")no-repeat center center fixed;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
-.jumbotron{
-	
-   margin-top:30px;	
-   margin-bottom:5px;
-   text-align:center;
-   background-color:rgba(0, 10 , 6 , 0.8);
+
+.jumbotron {
+
+	margin-top: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	background-color: rgba(0, 10, 6, 0.8);
 }
 
 
-.buTTon{
-	margin:10px;
-	width:150px;
-	background-color:red;
+.buTTon {
+	margin: 10px;
+	width: 150px;
+	background-color: red;
 	color: #ffffcc;
 }
-.btn-lg:hover{
-	background-color:#ff6600;
-	color:yellow;
-}
-.navbar-inverse{
-	margin-bottom:0;
-}
-.blocKdivider{
-	margin:30px;
-	height:4px;
-	background-color:#fff;
+
+.btn-lg:hover {
+	background-color: #ff6600;
+	color: yellow;
 }
 
+.navbar-inverse {
+	margin-bottom: 0;
+}
+
+.blocKdivider {
+	margin: 30px;
+	height: 4px;
+	background-color: #fff;
+}
 
 
 
 
-.alphaAlpha{
-	background:url("../assets/main/guitar.jpg")no-repeat center center fixed;
+
+.alphaAlpha {
+	background: url("../assets/main/guitar.jpg")no-repeat center center fixed;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	text-align:center;
-}
-.alphaTwo{
-	height:100px;
-	background-color:rgba(0, 4 , 12 , 0.8);
-	text-align:center;
-}
-.alphaTwo:hover{
-	background-color:rgba(0, 10 , 6 , 0.4);
-}
-#alphaOne{
-	text-align:center;
-    margin-top:30px;
-	
-	
-}
-.alphaThree{
-	
-     color: #ffffcc;
-	
-}
-.alphaThree:hover{
-       color:yellow;
-	   text-decoration:none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
 }
 
-.alphaFour{
-	text-align:center;
+.alphaTwo {
+	height: 100px;
+	background-color: rgba(0, 4, 12, 0.8);
+	text-align: center;
 }
-.socialLinksOne{
-	background:linear-gradient(#1a0d00, #333333);
-	color:#ffffe6;
-	text-align:center;
-	
+
+.alphaTwo:hover {
+	background-color: rgba(0, 10, 6, 0.4);
 }
-.general-sub{
-	margin-top:60px;
+
+#alphaOne {
+	text-align: center;
+	margin-top: 30px;
+
+
+}
+
+.alphaThree {
+
+	color: #ffffcc;
+
+}
+
+.alphaThree:hover {
+	color: yellow;
+	text-decoration: none;
+}
+
+.alphaFour {
+	text-align: center;
+}
+
+.socialLinksOne {
+	background: linear-gradient(#1a0d00, #333333);
+	color: #ffffe6;
+	text-align: center;
+
+}
+
+.general-sub {
+	margin-top: 60px;
 }
 
 .soCial {
-	margin:22px;
-    padding: 16px;
-    font-size: 28px;
-    width: 60px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-	color:white;
-	background-color:#2f2a2a;
+	margin: 22px;
+	padding: 16px;
+	font-size: 28px;
+	width: 60px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+	color: white;
+	background-color: #2f2a2a;
 	box-shadow: 2px 2px 5px #fff;
 }
-.soCial:hover{
-	color:#ffc125;
+
+.soCial:hover {
+	color: #ffc125;
 	box-shadow: 5px 5px 5px #ffc125;
 }
 
 
-.footerOne{
-	background:linear-gradient(#333333, #000);
+.footerOne {
+	background: linear-gradient(#333333, #000);
 }
 
-.footerFour{
-	font-size:25px;
-	text-decoration:none;
-	color:#b77733;
-	
+.footerFour {
+	font-size: 25px;
+	text-decoration: none;
+	color: #b77733;
+
 }
-.footerFour:hover{
-	text-decoration:none;
-	color:#f3d748;
+
+.footerFour:hover {
+	text-decoration: none;
+	color: #f3d748;
 }
-h2{
-	margin:0;
-	padding:0;
+
+h2 {
+	margin: 0;
+	padding: 0;
 }
-@media only screen and (min-width:700px){
-	#footerTwo{
-		height:300px;
-		
+
+@media only screen and (min-width:700px) {
+	#footerTwo {
+		height: 300px;
+
 	}
-	
+
 }
+
 /* who we are*/
 
-
-.jumboThree{
-	background:url("../assets/main/3.jpg")no-repeat center center fixed;
+.jumboThree {
+	background: url("../assets/main/3.jpg")no-repeat center center fixed;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	text-align:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
 }
-.bandIconsOne{
-	list-style-type:none;
-	color:white;
-	margin-left:0;
+
+.bandIconsOne {
+	list-style-type: none;
+	color: white;
+	margin-left: 0;
 }
-.photoOne{
-	margin-top:30px;
+
+.photoOne {
+	margin-top: 30px;
 }
-.aLign{
-	text-align:left;
+
+.aLign {
+	text-align: left;
+
 }
-.hidenListOne{
-	color:#fff;
-	margin:0;
-	padding:0;
+
+.hidenListOne {
+
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+.hiDDen {
+	list-style: none;
 }
 
 
 /* our songs*/
 
-.jumboFive{
-	background:url("../assets/main/6.jpg")no-repeat center center fixed;
+.jumboFive {
+	background: url("../assets/main/6.jpg")no-repeat center center fixed;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	text-align:center;
-	
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+
 }
-.videoOne{
-	margin-top:60px;
-	font-size:20px;
+
+.videoOne {
+	margin-top: 60px;
+	font-size: 20px;
 }
-.audioOne{
-	font-size:20px;
-	margin:20px;
+
+.audioOne {
+	font-size: 20px;
+	margin: 20px;
 }
 
 
 /* our concerts*/
 
-
 /* timeline*/
-.timeline-item{
-	padding:4em 2em 0em 2em;
-	position:relative;
-	color:#fafafa;
-	border-left:1px solid;
+
+.timeline-item {
+	padding: 4em 2em 0em 2em;
+	position: relative;
+	color: #fafafa;
+	border-left: 1px solid;
 }
-.timeline-item p{
-      padding:0;
-      margin:0;	
+
+.timeline-item p {
+	padding: 0;
+	margin: 0;
 }
-.timeline-item:before{
-    content:attr(dates);
-    position:absolute;
-    left:2.5em;
-    top:3em;
-    display:block;
-    padding:0;
-    margin:0;
+
+.timeline-item:before {
+	content: attr(dates);
+	position: absolute;
+	left: 2.5em;
+	top: 3em;
+	display: block;
+	padding: 0;
+	margin: 0;
 }
-.timeline-item:after{
-	width:12px;
-	height:12px;
-	display:block;
-	top:3.2em;
-	position:absolute;
-	left:-6px;
-	border-radius:12px;
-	content:'';
-	background:#fafafa;
-	
+
+.timeline-item:after {
+	width: 12px;
+	height: 12px;
+	display: block;
+	top: 3.2em;
+	position: absolute;
+	left: -6px;
+	border-radius: 12px;
+	content: '';
+	background: #fafafa;
+
 }
+
 .jumboSix {
-	text-align:left;
-	
+	text-align: left;
+
 }
-#conCerts{
-	margin-top:10px;
+
+#conCerts {
+	margin-top: 10px;
 }
 
 
-.uSer{
-	margin:10px;
-    padding: 10px;
-    font-size: 40px;
-    width: 60px;
-	height:60px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-	color:white;
-	background-color:#8c8c8c;
-	
+.uSer {
+	margin: 10px;
+	padding: 10px;
+	font-size: 40px;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+	color: white;
+	background-color: #8c8c8c;
+
 }
-.centralThree{
-	color:#fff;
+
+.centralThree {
+	color: #fff;
 }
 
 
 /* end timeline*/
 
-.jumboSeven{
-	background:url("../assets/main/5.jpg")no-repeat center center fixed;
+.jumboSeven {
+	background: url("../assets/main/5.jpg")no-repeat center center fixed;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 
-.liSt{
-	list-style:none;
-	margin:20px;
-	font-size:25px;
+.liSt {
+	list-style: none;
+	margin: 20px;
+	font-size: 25px;
 }
-
