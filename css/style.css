@@ -10,7 +10,7 @@
 	color: #f3d748;
 }
 
-.jumBo {
+.jumboFeedback {
 	color: #ffffff;
 }
 
@@ -41,7 +41,7 @@
 }
 
 
-.buTTon {
+.buttonModalOne {
 	margin: 10px;
 	width: 150px;
 	background-color: red;
@@ -57,7 +57,7 @@
 	margin-bottom: 0;
 }
 
-.blocKdivider {
+.blockDivider {
 	margin: 30px;
 	height: 4px;
 	background-color: #fff;
@@ -118,7 +118,7 @@
 	margin-top: 60px;
 }
 
-.soCial {
+.socialLinksThree {
 	margin: 22px;
 	padding: 16px;
 	font-size: 28px;
@@ -131,7 +131,7 @@
 	box-shadow: 2px 2px 5px #fff;
 }
 
-.soCial:hover {
+.socialLinksThree:hover {
 	color: #ffc125;
 	box-shadow: 5px 5px 5px #ffc125;
 }
@@ -186,19 +186,19 @@ h2 {
 	margin-top: 30px;
 }
 
-.aLign {
+.divAlign{
 	text-align: left;
 
 }
 
-.hidenListOne {
+.hiddenListOne {
 
 	color: #fff;
 	margin: 0;
 	padding: 0;
 }
 
-.hiDDen {
+.unstyled-ul {
 	list-style: none;
 }
 
@@ -223,6 +223,13 @@ h2 {
 	font-size: 20px;
 	margin: 20px;
 }
+
+.mediaList {
+	list-style: none;
+	margin: 20px;
+	font-size: 25px;
+}
+
 
 
 /* our concerts*/
@@ -264,15 +271,15 @@ h2 {
 
 }
 
+#concertsSpacing {
+	margin-top: 10px;
+}
+
 .jumboSix {
 	text-align: left;
 
 }
-
-#conCerts {
-	margin-top: 10px;
-}
-
+/*--feedback icons--*/
 
 .uSer {
 	margin: 10px;
@@ -287,6 +294,7 @@ h2 {
 	background-color: #8c8c8c;
 
 }
+
 
 .centralThree {
 	color: #fff;
@@ -303,8 +311,3 @@ h2 {
 
 }
 
-.liSt {
-	list-style: none;
-	margin: 20px;
-	font-size: 25px;
-}
