@@ -99,13 +99,18 @@ I have built this project using Notepad++ and continued in c9.
 Credits.
 ---
 Credits to "The Monkees" for their great story and audio/video.
+
 Credits to Code Institute offered assets for the project,
+
 Credits to Wikipedia for informations about "the Moonkees", the singers and their story. ["https://en.wikipedia.org/wiki/The_Monkees"](https://en.wikipedia.org/wiki/The_Monkees")
+
 Credits to pxhere.com ,where i was able to find photos licenced "free to use with modification"
+
 https://pxhere.com/en/photo/887979
 https://pxhere.com/en/photo/558617
 https://pxhere.com/en/photo/719913
 https://pxhere.com/en/photo/627956
 https://www.pexels.com/photo/photography-of-a-man-wearing-black-shirt-903661/
 these are some of the photos used.
+
 I would like to offer credits to  a tutorial for a navbar that i've modified ,I believe it was this :https://www.youtube.com/watch?v=CPvZzJlUz20.
