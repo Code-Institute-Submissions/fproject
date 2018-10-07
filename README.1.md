@@ -65,7 +65,7 @@ They are composed of four links that are leading to each of next pages.The user 
   The rest of the page features are common for all pages.
 
    *Our Songs*
-   ---
+    ---
    
    A user wants to listen some of  the band's songs :
    
