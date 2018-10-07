@@ -1,5 +1,6 @@
 
 #The Monkees front-end project.#
+---
 
 This is a front-end project consisting of four pages , index.html, WhoWeAre.html,OurSongs and OurConcerts.
 The project is using Bootstrap, responsive design, photographic backgrounds, creating a subject-related environment.
@@ -8,6 +9,7 @@ the visitor/user.The backgrounds are carefully chosen and are underlining the ba
 it is a easy to use , mobile-friendly web page that will lead to a pleasant experience for the desired target audience.
 
 ##UX.##
+===
 
 The project is designed for the band's audience and the band's fan base and not only.Every music fan and people who are 
 looking for e planned event entertainment they should realize using this web-page that the band is approachable and 
@@ -102,7 +104,6 @@ Credits to pxhere.com ,where i was able to find photos licenced "free to use wit
 https://pxhere.com/en/photo/887979
 https://pxhere.com/en/photo/558617
 https://pxhere.com/en/photo/719913
-https://pxhere.com/en/photo/714047
 https://pxhere.com/en/photo/627956
 https://www.pexels.com/photo/photography-of-a-man-wearing-black-shirt-903661/
 these are some of the photos used.
