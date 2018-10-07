@@ -77,8 +77,9 @@ please find more details on the README.1.md
 ---
 I have deployed my project  on Github Pages where i've had some problems with the links, i have asked a tutor for help
 to link my external css file as it wasn't recognised .After that, i've had some problems with links addresses in the css file for 
-background images, but after a research on internet i was able to fix it.
-I have built this project using Notepad++ and continued in c9.
+background images, but after a research on internet i was able to fix it. I haven't seen any major bugs during the project building.
+I've tried to keep it simple. 
+I have built this project using Notepad++ and continued in c9. 
 
 *Credits.*
 ---

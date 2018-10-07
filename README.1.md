@@ -66,14 +66,16 @@ They are composed of four links that are leading to each of next pages.The user 
 
    *Our Songs*
    ---
+   
    A user wants to listen some of  the band's songs :
    
    Press the individual controls for the desired song.
    
    
    *Our Concerts* 
-   ---
-    A user wants to find otu more about the next concerts:
+    ---
+   
+    A user wants to find out more about the next concerts:
     
     Press the "Our Concerts" link and navigate to the page, read the concerts scheduler.
 
