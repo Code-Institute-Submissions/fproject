@@ -49,10 +49,10 @@ They are composed of four links that are leading to each of next pages.The user 
   Under the main navigation links there are 5 links that connect the user to the band's profile.
   
   Facebook, Twitter, GooglePlus, Instagram and YouTube. 
+ 
   
-  
- *Who We Are* 
-  ---
+*Who We Are* 
+---
   
   A user wants to find out about the band :
   
@@ -64,16 +64,16 @@ They are composed of four links that are leading to each of next pages.The user 
   
   The rest of the page features are common for all pages.
 
-   *Our Songs*
-    ---
+*Our Songs*
+---
    
    A user wants to listen some of  the band's songs :
    
    Press the individual controls for the desired song.
    
    
-   *Our Concerts* 
-    ---
+*Our Concerts* 
+---
    
     A user wants to find out more about the next concerts:
     
