@@ -23,8 +23,7 @@ Please find inside the main project directory inside "sketches folder" , the dra
 Features.
 ---
 
-###The landing page 
-includes 
+The landing page includes 
 a navbar with a home page repeated on the next pages, link to a page with informations about the band,social media links,
 a central section containing a promotion for free tickets at the next concert, as well as a button triggering a modal for 
 accessing a booking system for various events.
@@ -32,20 +31,20 @@ a feedback section with few social-media quotes of band's fans or clients.
 a main navigation menu comprised of four collapsable links to the next pages allowing the users to access the desired pages.
 a footer containing the social media icons where the band can be followed by the fans or anyone who desires more info.
 
-###The WhoWeAre page
+The WhoWeAre page
 contains 
 the same responsive navbar,
 album covers and informations about the band , the band members, being accessible by clicking on the collapsable buttons
 next to the photos.
 
 
-###The OurSongs page 
+The OurSongs page 
 contains:
 a videoclip from the band's portfolio,
 few audio tracks with controls allowing users to listen to the band's most notorious hits.
 the same navigation menu, a footer with social media links.
 
-###The OurConcerts page
+The OurConcerts page
 contains:
 
 a collapsable list of concerts from the present band's tour,
@@ -53,11 +52,11 @@ few feedback impressions of fans following the concerts.
 the navigation menu,
 the footer with the social media icons and links.
 
-###The Contact page
+The Contact page
 
 brings up a modal with a message window the users being able to contact the band for any querries.
 
-###Tehnologies used.
+Tehnologies used.
 
 I have used for this project:
 HTML5,
@@ -68,7 +67,8 @@ bootstrap js. this was necessary for creating the modals .
 rock-salt font, for styling the name brand
 font-awesome. used for social media links icons.
 
-##Testing.
+Testing.
+---
 I have went trough an extensive testing for this project , accessing every link repeatedly.
 Scenarios:
 
@@ -89,14 +89,15 @@ main navigation menu center-bottom of the page is collapsed.
 sm: navigation menu center-bottom of the page is collapsed rearranging in 2 rows , 2 links each.
 lg:navigation menu center-bottom of the page is arranged in a single row containing all likks.
 
-##Deployment
+Deployment
+---
 I have deployed my project  on Github Pages where i've had some problems with the links, i have asked a tutor for help
 to link my external css file as it wasn't recognised .After that, i've had some problems with links addresses in the css file for 
 background images, but after a research on internet i was able to fix it.
 I have built this project using Notepad++ and continued in c9.
 
-##Credits.
-
+Credits.
+---
 Credits to "The Monkees" for their great story and audio/video.
 Credits to Code Institute offered assets for the project,
 Credits to Wikipedia for informations about "the Moonkees", the singers and their story. ["https://en.wikipedia.org/wiki/The_Monkees"](https://en.wikipedia.org/wiki/The_Monkees")
