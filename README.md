@@ -8,7 +8,7 @@ The project is responsive and is using a mobile-first approach.It is easy to use
 the visitor/user.The backgrounds are carefully chosen and are underlining the band's long experience.Overall,
 it is a easy to use , mobile-friendly web page that will lead to a pleasant experience for the desired target audience.
 
-UX.
+*UX.*
 ---
 
 The project is designed for the band's audience and the band's fan base and not only.Every music fan and people who are 
@@ -20,7 +20,7 @@ and a schedule of the concerts from the band next tours.There are also user expe
 and buttons designed to help the users to contact the band representatives for organising future events.
 Please find inside the main project directory inside "sketches folder" , the drawings that helped me to plan the creation of the project.
 
-Features.
+*Features.*
 ---
 
 The landing page includes 
@@ -31,20 +31,20 @@ a feedback section with few social-media quotes of band's fans or clients.
 a main navigation menu comprised of four collapsable links to the next pages allowing the users to access the desired pages.
 a footer containing the social media icons where the band can be followed by the fans or anyone who desires more info.
 
-The WhoWeAre page
+*The WhoWeAre page*
 contains 
 the same responsive navbar,
 album covers and informations about the band , the band members, being accessible by clicking on the collapsable buttons
 next to the photos.
 
 
-The OurSongs page 
+*The OurSongs page* 
 contains:
 a videoclip from the band's portfolio,
 few audio tracks with controls allowing users to listen to the band's most notorious hits.
 the same navigation menu, a footer with social media links.
 
-The OurConcerts page
+*The OurConcerts page*
 contains:
 
 a collapsable list of concerts from the present band's tour,
@@ -52,11 +52,11 @@ few feedback impressions of fans following the concerts.
 the navigation menu,
 the footer with the social media icons and links.
 
-The Contact page
+*The Contact page*
 
 brings up a modal with a message window the users being able to contact the band for any querries.
 
-Tehnologies used.
+*Tehnologies used.*
 
 I have used for this project:
 HTML5,
@@ -67,20 +67,20 @@ bootstrap js. this was necessary for creating the modals .
 rock-salt font, for styling the name brand
 font-awesome. used for social media links icons.
 
-Testing.
+*Testing.*
 ---
 I have went trough an extensive testing for this project , accessing every link repeatedly.
 please find more details on the README.1.md
 
 
-Deployment
+*Deployment*
 ---
 I have deployed my project  on Github Pages where i've had some problems with the links, i have asked a tutor for help
 to link my external css file as it wasn't recognised .After that, i've had some problems with links addresses in the css file for 
 background images, but after a research on internet i was able to fix it.
 I have built this project using Notepad++ and continued in c9.
 
-Credits.
+*Credits.*
 ---
 Credits to "The Monkees" for their great story and audio/video.
 
