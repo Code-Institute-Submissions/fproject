@@ -70,24 +70,8 @@ font-awesome. used for social media links icons.
 Testing.
 ---
 I have went trough an extensive testing for this project , accessing every link repeatedly.
-Scenarios:
+please find more details on the README.1.md
 
-1 An user wanting to find out more about the free concert tickets:
-Go to Signup button and press it.
-A modal will appear, each field is required.
-
-2 An user wanting to listen some of band's songs.
-Scroll lower on the landing page, go to Our Songs link and press. Access video or audio as required.
-
-3 An user wants to use the contact form:
-scroll down to ceter-bottom of the page and press contact link. Fillout the modal and click submit.
-
-On different screen sizes:
-xs: Navbar  dropdown button is visible
-sm: Navbar  dropdown button is visible
-main navigation menu center-bottom of the page is collapsed.
-sm: navigation menu center-bottom of the page is collapsed rearranging in 2 rows , 2 links each.
-lg:navigation menu center-bottom of the page is arranged in a single row containing all likks.
 
 Deployment
 ---
