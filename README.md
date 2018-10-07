@@ -1,6 +1,6 @@
 
-#The Monkees front-end project.#
----
+The Monkees front-end project.
+===
 
 This is a front-end project consisting of four pages , index.html, WhoWeAre.html,OurSongs and OurConcerts.
 The project is using Bootstrap, responsive design, photographic backgrounds, creating a subject-related environment.
@@ -8,8 +8,8 @@ The project is responsive and is using a mobile-first approach.It is easy to use
 the visitor/user.The backgrounds are carefully chosen and are underlining the band's long experience.Overall,
 it is a easy to use , mobile-friendly web page that will lead to a pleasant experience for the desired target audience.
 
-##UX.##
-===
+UX.
+---
 
 The project is designed for the band's audience and the band's fan base and not only.Every music fan and people who are 
 looking for e planned event entertainment they should realize using this web-page that the band is approachable and 
@@ -20,8 +20,8 @@ and a schedule of the concerts from the band next tours.There are also user expe
 and buttons designed to help the users to contact the band representatives for organising future events.
 Please find inside the main project directory inside "sketches folder" , the drawings that helped me to plan the creation of the project.
 
-##Features.
-
+Features.
+---
 
 ###The landing page 
 includes 
